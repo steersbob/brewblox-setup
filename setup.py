@@ -1,10 +1,7 @@
 from setuptools import setup, find_packages
 
-project_name = 'YOUR-PACKAGE'
-package_name = 'YOUR_PACKAGE'
-
 setup(
-    name=project_name,
+    name='brewblox-setup',
     version='0.1',
     long_description=open('README.md').read(),
     url='YOUR_REPOSITORY',
